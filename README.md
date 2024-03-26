@@ -4,6 +4,10 @@
 
 Name: Yang Zhou
 
+Email: yangzhou04@gmail.com
+
+Tel: +86 17780536350
+
 AntGroup Nickname: Yu Guan(羽冠)
 
 Department in charge: Financial Management and Human Resource Data services (17 staff including me + 8 outsource)
