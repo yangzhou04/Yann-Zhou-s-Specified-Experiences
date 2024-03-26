@@ -155,7 +155,7 @@ A:
 - Give Solution Presentation to our customers' leader.
 - Give performance suggestions to the team leader.
 
-R: Help customers explain 91% of income trend reasons to the business product level. 99.9% report stability. 2 team members got promoted from 10 to 12.
+R: Help customers explain 91% of income trend reasons to the business product level. 99.9% report stability. 2 team members got promoted from 12 to 14.
 
 **2021.7~present Data Engineer Staff Manager**
 
